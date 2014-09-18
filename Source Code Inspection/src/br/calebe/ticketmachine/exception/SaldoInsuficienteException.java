@@ -2,7 +2,7 @@ package br.calebe.ticketmachine.exception;
 
 /**
  *
- * @author Calebe de Paula Bianchini
+ * MUDANÇA PARA O GITHUB DEPOIS DA IMPORTAÇÃO PARA O NETBEANS
  */
 public class SaldoInsuficienteException extends Exception {
 }

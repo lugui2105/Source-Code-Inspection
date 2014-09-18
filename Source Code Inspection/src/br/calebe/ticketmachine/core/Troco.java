@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author Calebe de Paula Bianchini
+ * MUDANÇA PARA O GITHUB DEPOIS DA IMPORTAÇÃO PARA O NETBEANS
  */
 class Troco {
 
